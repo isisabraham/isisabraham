@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to my profile!
 
-- 🔭 I’m currently working on **data-driven digital marketing strategies**, **CRM analytics**, and **e-commerce performance optimization**.  
+- 🔭 I’m currently working on **data-driven digital/email marketing strategies**, **CRM analytics**, and **performance optimization**.  
 - 🌱 I’m currently learning **advanced data analytics**, **marketing automation**, and **AI applications for digital strategy**.  
 - 👯 I’m looking to collaborate on **data visualization**, **consumer behavior analysis**, and **performance tracking for digital campaigns**.  
 
