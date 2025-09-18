@@ -1,5 +1,6 @@
 ## Hi there 👋 Welcome to my profile!
 
-- 🔭 I’m currently working on projects to practice **Python**, **SQL**, and **HTML**.  
-- 🌱 I’m currently learning the basics of programming and how to use these tools in real examples.  
-- 👯 I’m looking to collaborate on projects and share knowledge while learning.  
+💻 I’m developing projects with Python, SQL, and HTML, focusing on practical applications and problem-solving.
+📊 I enjoy working with data, building visualizations, and exploring how technology supports decision-making.
+🌍 Interested in both web development and data analytics, combining technical skills with analytical thinking.
+🤝 Open to collaboration and continuous learning, while sharing my progress and projects here on GitHub.
