@@ -1,15 +1,17 @@
-# Hi there 👋 Welcome to my GitHub!
+# Hello 👋 Welcome to my space!
 
-I'm Isis, a **Digital Marketing Analyst** passionate about combining **data, technology, and creativity** to drive results.  
-Here you'll find projects that reflect my journey in **CRM, lifecycle marketing, data analysis, and campaign automation**, as well as my continuous learning in **Python and web development**.
+I'm **Isis**, a **Marketing & Data Analyst** who loves blending **data, technology, and creativity** to deliver measurable results.  
+Here you’ll find projects that showcase my experience with **CRM**, **Power BI**, **SQL**, **data analytics**, and **automation**, along with my continuous learning in **Python**.
 
-🌟 **What you’ll see here:**  
-- **Python exercises** – strengthening problem-solving and data manipulation skills.  
-- **HTML email campaigns** – responsive projects for seasonal promotions and real-life marketing applications.  
-- **Customer journey mapping** – practical cases from my professional experience, focused on process optimization and marketing strategies.  
+🌟 **What you’ll find here:**  
+- **Python projects** – strengthening analytical and problem-solving skills.  
+- **SQL & BI dashboards** – uncovering insights and business intelligence use cases.  
+- **Email marketing & automation** – responsive campaigns and real-world CRM workflows.  
+- **Customer journey mapping** – optimizing marketing processes and lifecycle strategies.  
 
-📊 I love transforming raw data into actionable insights, automating processes, and improving customer experiences through smart marketing strategies.  
+📊 I love turning **raw data** into **actionable insights**, automating workflows, and improving **customer experiences** through **data-driven marketing strategies**.  
 
-💡 Currently, I’m looking to grow my career in **Digital Marketing & CRM**, with a strong focus on **data-driven decision making**.  
+💡 Currently, I’m focused on growing my career in **Digital Marketing & CRM Analytics**, helping teams make **smarter, data-backed decisions**.  
 
-📬 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/isisabraham/) or check out my projects below!  
+📬 Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/isisabraham/)** or explore my projects below!
+
