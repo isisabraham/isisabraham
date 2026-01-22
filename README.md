@@ -1,17 +1,18 @@
-# Hello 👋 Welcome to my space!
+# Hello 👋 Welcome!
 
-I'm **Isis**, a **Marketing & Data Analyst** who loves blending **data, technology, and creativity** to deliver measurable results.  
-Here you’ll find projects that showcase my experience with **CRM**, **Power BI**, **SQL**, **data analytics**, and **automation**, along with my continuous learning in **Python**.
+I’m Isis, a **CRM & Digital Marketing professional** focused on **customer journeys**, **lifecycle strategies**, and **marketing execution**.
 
-🌟 **What you’ll find here:**  
-- **Python projects** – strengthening analytical and problem-solving skills.  
-- **SQL & BI dashboards** – uncovering insights and business intelligence use cases.  
-- **Email marketing & automation** – responsive campaigns and real-world CRM workflows.  
-- **Customer journey mapping** – optimizing marketing processes and lifecycle strategies.  
+This repository showcases projects related to:
 
-📊 I love turning **raw data** into **actionable insights**, automating workflows, and improving **customer experiences** through **data-driven marketing strategies**.  
+**Customer Journey Mapping** – real-life CRM applications and process optimization
+**CRM & Lifecycle Marketing** – customer engagement, retention, and communication flows
+**Email Marketing (HTML)** – responsive emails for seasonal and promotional campaigns
 
-💡 Currently, I’m focused on growing my career in **Digital Marketing & CRM Analytics**, helping teams make **smarter, data-backed decisions**.  
+One of the main projects featured here is a **customer journey mapping project developed** for Bagaggio, based on a real business scenario. The journey was mapped using **Miro** to visualize customer touchpoints, identify gaps, and improve processes and lifecycle communications.
 
-📬 Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/isisabraham/)** or explore my projects below!
+I also create responsive HTML email templates for campaigns such as Black Friday and Back to School, focusing on structure, clarity, and cross-device usability.
 
+# 📌 Note: Some projects and documentation are written in Portuguese because they were created for real companies and stakeholders in Brazil. The focus is on CRM strategy, methodology, and practical application, not language.
+
+📌 Currently focused on growing my career in CRM, Lifecycle Marketing, and Customer Experience.
+🔗 Feel free to explore the projects below or connect with me on LinkedIn.
