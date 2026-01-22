@@ -1,6 +1,6 @@
 # Hello 👋 Welcome!
 
-I’m Isis, a **CRM & Digital Marketing professional** focused on **customer journeys**, **lifecycle strategies**, and **marketing execution**.
+I’m Isa, a **CRM & Digital Marketing professional** focused on **customer journeys**, **lifecycle strategies**, and **marketing execution**.
 
 This repository showcases projects related to:
 
