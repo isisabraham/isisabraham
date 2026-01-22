@@ -12,7 +12,7 @@ One of the main projects featured here is a **customer journey mapping project d
 
 I also create responsive HTML email templates for campaigns such as Black Friday and Back to School, focusing on structure, clarity, and cross-device usability.
 
-# 📌 Note: Some projects and documentation are written in Portuguese because they were created for real companies and stakeholders in Brazil. The focus is on CRM strategy, methodology, and practical application, not language.
+## 📌 Note: Some projects and documentation are written in Portuguese because they were created for real companies and stakeholders in Brazil. The focus is on CRM strategy, methodology, and practical application, not language.
 
 📌 Currently focused on growing my career in CRM, Lifecycle Marketing, and Customer Experience.
 🔗 Feel free to explore the projects below or connect with me on LinkedIn.
